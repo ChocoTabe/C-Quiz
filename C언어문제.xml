@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<randomQuiz>
+  <problem num="1">
+    <question>컴퓨터를 실행하기 위해 차례대로 작성된 명령어의 모음은?</question>
+    <objQ>
+      <num1>컴파일</num1>
+      <num2>프로젝트</num2>
+      <num3>기계 언어</num3>
+      <num4>프로그램</num4>
+    </objQ>
+    <answer>프로그램</answer>
+  </problem>
+  <problem num="2">
+    <question>컴퓨터를 사용하여 원하는 작업을 수행하는 데 필요한 프로그램을 개발하기 위한 언어는?</question>
+    <objQ>
+      <num1>프로그래밍 언어</num1>
+      <num2>자연어</num2>
+      <num3>컴파일</num3>
+      <num4>기계어</num4>
+    </objQ>
+    <answer>프로그래밍 언어</answer>
+  </problem>
+  <problem num="3">
+    <question>컴퓨터가 쉽게 해석할 수 있는 명령어로 구성된 프로그래밍 언어는?</question>
+    <objQ>
+      <num1>포트란</num1>
+      <num2>고급 언어</num2>
+      <num3>저급 언어</num3>
+      <num4>파이썬</num4>
+    </objQ>
+    <answer>저급 언어</answer>
+  </problem>
+  <problem num="4">
+    <question>0과 1로 구성된 이진수로 컴퓨터의 명령어를 표현하는 프로그래밍 언어는?</question>
+    <objQ>
+      <num1>기계어</num1>
+      <num2>어셈블리어</num2>
+      <num3>코볼</num3>
+      <num4>C 언어</num4>
+    </objQ>
+    <answer>기계어</answer>
+  </problem>
+  <problem num="5">
+    <question>사용하기 어렵고 오류가 자주 발생하는 기계어의 불편함을 개선하기 위해 개발된 프로그래밍 언어는?</question>
+    <objQ>
+      <num1>기계어</num1>
+      <num2>어셈블리어</num2>
+      <num3>고급 언어</num3>
+      <num4>C 언어</num4>
+    </objQ>
+    <answer>어셈블리어</answer>
+  </problem>
+  <problem num="6">
+    <question>C 언어 탄생과 관련이 없는 것은?</question>
+    <objQ>
+      <num1>데니스 리치</num1>
+      <num2>B</num2>
+      <num3>윈도우</num3>
+      <num4>캔 톰슨</num4>
+    </objQ>
+    <answer>윈도우</answer>
+  </problem>
+  <problem num="7">
+    <question>프로그래밍 언어의 종류로 빈칸을 채우시오. 저급 언어 : (   ), 어셈블리어(Assembly) | 고급 언어 : 포트란(Fortran), 코볼(Cobol), (   ), 파스칼(Pascal), 베이직(Basic), (   ), 리스프(Lisp)</question>
+    <objQ>
+      <num1>기계어, 자바, 파이썬</num1>
+      <num2>컴파일러, C/C++, C#</num2>
+      <num3>기계어, C/C++, C#</num3>
+      <num4>기계어, C/C++, 파이썬</num4>
+    </objQ>
+    <answer>기계어, C/C++, 파이썬</answer>
+  </problem>
+  <problem num="8">
+    <question>C 프로그램 개발 과정으로 빈칸을 채우시오. 요구 사항 분석 -&gt; (   ) -&gt; 명세서 작성 -&gt; (   ) -&gt; 소스 코드 작성 -&gt; (   ) -&gt; 실행과 디버깅 -&gt; (   )</question>
+    <objQ>
+      <num1>알고리즘 분석, 순서도 작성, 컴파일과 링크, 유지/보수</num1>
+      <num2>알고리즘 개발, 순서도 작성, 컴파일과 링크, 프로그램</num2>
+      <num3>알고리즘 분석, 순서도 분석, 컴파일과 오브젝트 파일, 유지/보수</num3>
+      <num4>알고리즘 개발, 순서도 분석, 컴파일과 오브젝트 파일, 프로그램</num4>
+    </objQ>
+    <answer>알고리즘 개발, 순서도 작성, 컴파일과 링크, 프로그램</answer>
+  </problem>
+  <problem num="9">
+    <question>프로그램 실행과 디버깅 과정으로 빈칸을 채우시오. 시작 -&gt; (   ) -&gt; 컴파일 -&gt; 오류? (예/아니요) -&gt; (   ) -&gt; 링크 -&gt; (   ) -&gt; 성공? (예/아니요) -&gt; (   ) -&gt; 끝</question>
+    <objQ>
+      <num1>소스 코드, 오브젝트 파일, 실행, 실행 파일</num1>
+      <num2>오브젝트 파일, 소스코드, 실행 파일, 실행</num2>
+      <num3>실행, 실행 파일, 소스 코드, 오브젝트 파일</num3>
+      <num4>소스 코드, 실행, 오브젝트 파일, 실행 파일</num4>
+    </objQ>
+    <answer>소스 코드, 오브젝트 파일, 실행, 실행 파일</answer>
+  </problem>
+  <problem num="10">
+    <question>프로그램 소스 코드를 기계어로 변환하여 실행할 수 있도록 제공해주는 프로그램은?</question>
+    <objQ>
+      <num1>컴파일</num1>
+      <num2>프로젝트</num2>
+      <num3>저급 언어</num3>
+      <num4>컴파일러</num4>
+    </objQ>
+    <answer>컴파일러</answer>
+  </problem>
+  <problem num="11">
+    <question>자연어로 구성된 소스 코드를 기계어로 번역하여 실행할 수 있도록 해주는 과정은?</question>
+    <objQ>
+      <num1>디버깅</num1>
+      <num2>실행</num2>
+      <num3>오류</num3>
+      <num4>컴파일</num4>
+    </objQ>
+    <answer>컴파일</answer>
+  </problem>
+  <problem num="12">
+    <question>표준 입력 장치인 키보드와 표준 출력 장치인 모니터를 통틀어서 일컫는 용어는?</question>
+    <objQ>
+      <num1>디버거</num1>
+      <num2>콘솔</num2>
+      <num3>함수</num3>
+      <num4>모듈</num4>
+    </objQ>
+    <answer>콘솔</answer>
+  </problem>
+  <problem num="13">
+    <question>프로그램 소스 코드에서 가장 먼저 수행해야 한다는 의미를 지닌 선행처리 지시자는?</question>
+    <objQ>
+      <num1>&amp;</num1>
+      <num2>%</num2>
+      <num3>-&gt;</num3>
+      <num4>#</num4>
+    </objQ>
+    <answer>#</answer>
+  </problem>
+  <problem num="14">
+    <question>표준 입출력 함수인 scanf_s( ) 함수와 printf( ) 함수의 원형이 들어있는 헤더 파일은?</question>
+    <objQ>
+      <num1>string.h</num1>
+      <num2>studio.h</num2>
+      <num3>stdio.h</num3>
+      <num4>stdlib.h</num4>
+    </objQ>
+    <answer>stdio.h</answer>
+  </problem>
+  <problem num="15">
+    <question>소스 코드에서 명령문 구간을 정의할 때 사용하는 기호는?</question>
+    <objQ>
+      <num1>{ }</num1>
+      <num2>[ ]</num2>
+      <num3>&lt; &gt;</num3>
+      <num4>( )</num4>
+    </objQ>
+    <answer>{ }</answer>
+  </problem>
+  <problem num="16">
+    <question>프로그램 오류의 종류와 디버깅에 대한 내용으로 괄호를 채우시오. 소스코드 작성 -&gt; (   )(:디버깅) -&gt; 컴파일 -&gt; (   )(:디버깅) -&gt; 실행 -&gt; (   )(:디버깅)</question>
+    <objQ>
+      <num1>문법 오류, 문법 오류, 문법 및 논리 오류</num1>
+      <num2>문법 오류, 컴파일 오류, 문법 및 논리 오류</num2>
+      <num3>문법 오류, 문법 및 논리 오류, 문법 및 논리 오류</num3>
+      <num4>문법 오류, 문법 및 논리 오류, 문법 오류</num4>
+    </objQ>
+    <answer>문법 오류, 문법 오류, 문법 및 논리 오류</answer>
+  </problem>
+  <problem num="17">
+    <question>왼쪽으로 한 칸 이동을 나타내는 제어 문자는?</question>
+    <objQ>
+      <num1>\t</num1>
+      <num2>\n</num2>
+      <num3>\b</num3>
+      <num4>\r</num4>
+    </objQ>
+    <answer>\b</answer>
+  </problem>
+  <problem num="18">
+    <question>printf( ) 함수에서 10진수 실수로 출력할 때 사용하는 출력 형식 지정자는?</question>
+    <objQ>
+      <num1>%d</num1>
+      <num2>%e</num2>
+      <num3>%s</num3>
+      <num4>%f</num4>
+    </objQ>
+    <answer>%f</answer>
+  </problem>
+  <problem num="19">
+    <question>데이터를 입력할 때 구분자로 사용할 수 없는 것은?</question>
+    <objQ>
+      <num1>Back Space</num1>
+      <num2>Enter</num2>
+      <num3>Tap</num3>
+      <num4>Space Bar</num4>
+    </objQ>
+    <answer>Back Space</answer>
+  </problem>
+  <problem num="20">
+    <question>a = 8.123456일 때 출력문에서 %05.2f로 선언하여 출력할 경우 결과값은?</question>
+    <objQ>
+      <num1>8.12</num1>
+      <num2>8.1234</num2>
+      <num3>08.12</num3>
+      <num4>08.123</num4>
+    </objQ>
+    <answer>08.12</answer>
+  </problem>
+  <problem num="21">
+    <question>int a = 5로 선언할 때 변수 a에 할당되는 메모리의 크기는?</question>
+    <objQ>
+      <num1>4바이트</num1>
+      <num2>2바이트</num2>
+      <num3>16바이트</num3>
+      <num4>8바이트</num4>
+    </objQ>
+    <answer>4바이트</answer>
+  </problem>
+  <problem num="22">
+    <question>scanf_( ) 함수를 연속해서 사용할 때 버퍼 메모리를 비워주는 역할을 하는 함수는?</question>
+    <objQ>
+      <num1>main()</num1>
+      <num2>sizeof()</num2>
+      <num3>printf()</num3>
+      <num4>getchar()</num4>
+    </objQ>
+    <answer>getchar()</answer>
+  </problem>
+  <problem num="23">
+    <question>소스 코드의 실행 결과값을 적어보시오. int a = 123; printf("%05d", a);</question>
+    <objQ>
+      <num1>123</num1>
+      <num2>0123</num2>
+      <num3>00123</num3>
+      <num4>000123</num4>
+    </objQ>
+    <answer>00123</answer>
+  </problem>
+  <problem num="24">
+    <question>소스 코드의 실행 결과값을 적어보시오. float b = 35.885; printf("%.2f", b);</question>
+    <objQ>
+      <num1>35.885</num1>
+      <num2>35.88</num2>
+      <num3>35.89</num3>
+      <num4>035.88</num4>
+    </objQ>
+    <answer>35.88</answer>
+  </problem>
+  <problem num="25">
+    <question>소스 코드의 실행 결과값을 적어보시오. char c = 'A'; printf("%d", c);</question>
+    <objQ>
+      <num1>65</num1>
+      <num2>66</num2>
+      <num3>67</num3>
+      <num4>68</num4>
+    </objQ>
+    <answer>65</answer>
+  </problem>
+  <problem num="26">
+    <question>프로그래머가 필요에 따라 선언하는 변수의 이름 또는 사용자 정의 함수를 의미하는 용어는?</question>
+    <objQ>
+      <num1>식별자</num1>
+      <num2>예약어</num2>
+      <num3>모듈</num3>
+      <num4>명령어</num4>
+    </objQ>
+    <answer>식별자</answer>
+  </problem>
+  <problem num="27">
+    <question>식별자로 사용할 수 없는 것은?</question>
+    <objQ>
+      <num1>언더바</num1>
+      <num2>알파벳</num2>
+      <num3>영단어</num3>
+      <num4>예약어</num4>
+    </objQ>
+    <answer>예약어</answer>
+  </problem>
+  <problem num="28">
+    <question>컴파일러가 특정 목적을 수행하기 위해 사전에 예약해 놓은 명령어는?</question>
+    <objQ>
+      <num1>주석문</num1>
+      <num2>식별자</num2>
+      <num3>예약어</num3>
+      <num4>조건문</num4>
+    </objQ>
+    <answer>예약어</answer>
+  </problem>
+  <problem num="29">
+    <question>프로그램이 실행되는 동안 수시로 데이터값이 변하는 정보를 보유하고 있는 식별자는?</question>
+    <objQ>
+      <num1>상수</num1>
+      <num2>변수</num2>
+      <num3>조건문</num3>
+      <num4>예약어</num4>
+    </objQ>
+    <answer>변수</answer>
+  </problem>
+  <problem num="30">
+    <question>메모리 주소를 참조하는 연산자는?</question>
+    <objQ>
+      <num1>%</num1>
+      <num2>#</num2>
+      <num3>&amp;</num3>
+      <num4>\</num4>
+    </objQ>
+    <answer>&amp;</answer>
+  </problem>
+  <problem num="31">
+    <question>변수 이름을 올바르게 선언한 것은?</question>
+    <objQ>
+      <num1>_8num</num1>
+      <num2>5_date</num2>
+      <num3>3on</num3>
+      <num4>s zone</num4>
+    </objQ>
+    <answer>_8num</answer>
+  </problem>
+  <problem num="32">
+    <question>myCount와 같이 선언하는 변수 표기하는 방식은?</question>
+    <objQ>
+      <num1>미국 표기법</num1>
+      <num2>헝가리언 표기법</num2>
+      <num3>ANSI</num3>
+      <num4>카멜 표기법</num4>
+    </objQ>
+    <answer>카멜 표기법</answer>
+  </problem>
+  <problem num="33">
+    <question>변수는 데이터를 저장하기 위한 메모리 공간의 이름을 의미합니다. 이때 메모리 공간의 크기를 지정하는 단위는?</question>
+    <objQ>
+      <num1>컴파일러</num1>
+      <num2>자료형</num2>
+      <num3>지역 변수</num3>
+      <num4>전역 번수</num4>
+    </objQ>
+    <answer>자료형</answer>
+  </problem>
+  <problem num="34">
+    <question>변수를 선언할 때 제시한 자료형으로 확보한 메모리 공간의 크기보다 더 큰 값이 대입되는 경우에 발생하는 증상은?</question>
+    <objQ>
+      <num1>오버플로</num1>
+      <num2>언더플로</num2>
+      <num3>시스템 중지</num3>
+      <num4>문법 오류</num4>
+    </objQ>
+    <answer>오버플로</answer>
+  </problem>
+  <problem num="35">
+    <question>언더플로가 발생하면 자료형에서 허용하는 유효범위 중에서 연산을 수행하는 값은?</question>
+    <objQ>
+      <num1>중간값</num1>
+      <num2>평균값</num2>
+      <num3>최댓값</num3>
+      <num4>최솟값</num4>
+    </objQ>
+    <answer>최댓값</answer>
+  </problem>
+  <problem num="36">
+    <question>문자형 자료형으로 변수를 선언하고 그 변수에 문자를 대입할 때 감싸주는 기호는?</question>
+    <objQ>
+      <num1>작은따옴표</num1>
+      <num2>중괄호</num2>
+      <num3>겹슬래시</num3>
+      <num4>큰따옴표</num4>
+    </objQ>
+    <answer>작은따옴표</answer>
+  </problem>
+  <problem num="37">
+    <question>변수에 대입되는 값으로 프로그램 수행 중에는 그 값이 변하지 않는 데이터는?</question>
+    <objQ>
+      <num1>실수</num1>
+      <num2>정수</num2>
+      <num3>아스키코드</num3>
+      <num4>상수</num4>
+    </objQ>
+    <answer>상수</answer>
+  </problem>
+  <problem num="38">
+    <question>문자열 상수를 사용할 때 묶어주는 기호는?</question>
+    <objQ>
+      <num1>작은따옴표</num1>
+      <num2>중괄호</num2>
+      <num3>겹슬래시</num3>
+      <num4>큰따옴표</num4>
+    </objQ>
+    <answer>큰따옴표</answer>
+  </problem>
+  <problem num="39">
+    <question>상수에 이름을 붙여서 사용하는 방법은?</question>
+    <objQ>
+      <num1>기호 상수</num1>
+      <num2>매크로</num2>
+      <num3>문자열 상수</num3>
+      <num4>문자 상수</num4>
+    </objQ>
+    <answer>기호 상수</answer>
+  </problem>
+  <problem num="40">
+    <question>기호 상수를 선언할 때 사용하는 명령은?</question>
+    <objQ>
+      <num1>#define</num1>
+      <num2>#include</num2>
+      <num3>#if</num3>
+      <num4>#else</num4>
+    </objQ>
+    <answer>#define</answer>
+  </problem>
+  <problem num="41">
+    <question>변수에 대입되는 값을 상수로 처리하고 프로그램이 종료될 때까지 불변의 값을 지니게 하는 키워드는?</question>
+    <objQ>
+      <num1>define</num1>
+      <num2>include</num2>
+      <num3>const</num3>
+      <num4>cast</num4>
+    </objQ>
+    <answer>const</answer>
+  </problem>
+  <problem num="42">
+    <question>강제 자료형 변환이 이루어지는 과정을 나타낸 그림에서 빈칸을 채우시오. double -> (   ) -> int -> (   ) -> char</question>
+    <objQ>
+      <num1>long, float</num1>
+      <num2>short, float</num2>
+      <num3>float, short</num3>
+      <num4>long, short</num4>
+    </objQ>
+    <answer>float, short</answer>
+  </problem>
+  <problem num="43">
+    <question>프로그램을 보고 출력 결과값을 쓰시오. short num1 = 32769; printf("num1 = %d", num1);</question>
+    <objQ>
+      <num1>num1 = -32769</num1>
+      <num2>num1 = -32767</num2>
+      <num3>num1 = 32768</num3>
+      <num4>num1 = 32767</num4>
+    </objQ>
+    <answer>-32767</answer>
+  </problem>
+  <problem num="44">
+    <question>프로그램을 보고 출력 결과값을 쓰시오. short num2 = -32769; printf("num2 = %d", num2);</question>
+    <objQ>
+      <num1>num2 = 32767</num1>
+      <num2>num2 = -32767</num2>
+      <num3>num2 = -32768</num3>
+      <num4>num2 = 32768</num4>
+    </objQ>
+    <answer>32767</answer>
+  </problem>
+  <problem num="45">
+    <question>프로그램을 보고 출력 결과값을 쓰시오. char alpha = 'A'; printf("ascii = %d", alpha);</question>
+    <objQ>
+      <num1>ascii = 64</num1>
+      <num2>ascii = 65</num2>
+      <num3>ascii = 66</num3>
+      <num4>ascii = 67</num4>
+    </objQ>
+    <answer></answer>
+  </problem>
+  <problem num="46">
+    <question>프로그램을 보고 출력 결과값을 쓰시오. char ch; ch = 'J' + 3; printf("ch = %d", ch);</question>
+    <objQ>
+      <num1>ch = 75</num1>
+      <num2>ch = 76</num2>
+      <num3>ch = 77</num3>
+      <num4>ch = 78</num4>
+    </objQ>
+    <answer>ch = 77</answer>
+  </problem>
+  <problem num="47">
+    <question>피연산자와 연산자가 결합된 상태를 나타내는 것은?</question>
+    <objQ>
+      <num1>식별자</num1>
+      <num2>예약어</num2>
+      <num3>자료형</num3>
+      <num4>수식</num4>
+    </objQ>
+    <answer>수식</answer>
+  </problem>
+  <problem num="48">
+    <question>연산식을 수행할 때 결과값이 달라지는 주된 이유는?</question>
+    <objQ>
+      <num1>컴파일러</num1>
+      <num2>우선순위</num2>
+      <num3>식별자</num3>
+      <num4>컴파일</num4>
+    </objQ>
+    <answer>우선순위</answer>
+  </problem>
+  <problem num="49">
+    <question>다음 중에서 우선순위가 가장 빠른 연산자는?</question>
+    <objQ>
+      <num1>( )</num1>
+      <num2>&lt;&lt;</num2>
+      <num3>++</num3>
+      <num4>[ ]</num4>
+    </objQ>
+    <answer>( )</answer>
+  </problem>
+  <problem num="50">
+    <question>정수형 변수와 실수형 변수를 연산할 때 출력되는 결과값의 자료형은?</question>
+    <objQ>
+      <num1>문자열형</num1>
+      <num2>문자형</num2>
+      <num3>실수형</num3>
+      <num4>정수형</num4>
+    </objQ>
+    <answer>실수형</answer>
+  </problem>
+  <problem num="51">
+    <question>나머지를 구하는 연산자는?</question>
+    <objQ>
+      <num1>/</num1>
+      <num2>//</num2>
+      <num3>&amp;</num3>
+      <num4>%</num4>
+    </objQ>
+    <answer>%</answer>
+  </problem>
+  <problem num="52">
+    <question>‘25%2’를 출력하기 위해 printf( ) 함수 안에 선언하는 방법은?</question>
+    <objQ>
+      <num1>25%%2</num1>
+      <num2>25%2</num2>
+      <num3>25\%2</num3>
+      <num4>25／%2</num4>
+    </objQ>
+    <answer>25%%2</answer>
+  </problem>
+  <problem num="53">
+    <question>a *= b – c와 동일한 연산식은?</question>
+    <objQ>
+      <num1>a = a * b - c</num1>
+      <num2>a * b - c = a</num2>
+      <num3>a = a * (b - c)</num3>
+      <num4>a = (a * b) - c</num4>
+    </objQ>
+    <answer>a = a * (b - c)</answer>
+  </problem>
+  <problem num="54">
+    <question>우선순위가 빠른 순으로 연산자를 정렬해 보시오. 1. ( ), 2. &amp;&amp;, 3. ==, 4. &lt;&lt;</question>
+    <objQ>
+      <num1>1 3 2 4</num1>
+      <num2>1 4 3 2</num2>
+      <num3>1 4 2 3</num3>
+      <num4>1 2 3 4</num4>
+    </objQ>
+    <answer>1 4 3 2</answer>
+  </problem>
+  <problem num="55">
+    <question>산술 연산자 중에서 정수에서만 사용해야 하는 연산자는?</question>
+    <objQ>
+      <num1>/</num1>
+      <num2>*</num2>
+      <num3>+</num3>
+      <num4>%</num4>
+    </objQ>
+    <answer>%</answer>
+  </problem>
+  <problem num="56">
+    <question>a = 5일 때 b = a++의 연산 결과로 출력되는 a, b의 값은?</question>
+    <objQ>
+      <num1>a = 5, b = 6</num1>
+      <num2>a = 6, b = 6</num2>
+      <num3>a = 6, b = 5</num3>
+      <num4>a = 5, b = 5</num4>
+    </objQ>
+    <answer>a = 5, b = 6</answer>
+  </problem>
+  <problem num="57">
+    <question>변수 또는 자료형의 크기를 알고 싶을 때 사용하는 연산자는?</question>
+    <objQ>
+      <num1>sizeof( ) 연산자</num1>
+      <num2>shitf 연산자</num2>
+      <num3>comma 연산자</num3>
+      <num4>cast( ) 연산자</num4>
+    </objQ>
+    <answer>sizeof( ) 연산자</answer>
+  </problem>
+  <problem num="58">
+    <question>오버플로가 발생하였을 때 강제 자료형 변환을 하기 위해 사용하는 것은?</question>
+    <objQ>
+      <num1>sizeof( ) 연산자</num1>
+      <num2>shitf 연산자</num2>
+      <num3>comma 연산자</num3>
+      <num4>cast( ) 연산자</num4>
+    </objQ>
+    <answer>cast( ) 연산자</answer>
+  </problem>
+  <problem num="59">
+    <question>sizeof( ) 연산자를 잘못 사용한 것은?</question>
+    <objQ>
+      <num1>sizeof(num)</num1>
+      <num2>sizeof num</num2>
+      <num3>sizeof(double)</num3>
+      <num4>sizeof float</num4>
+    </objQ>
+    <answer>sizeof float</answer>
+  </problem>
+  <problem num="60">
+    <question>프로그램에서 수행하는 명령의 순서를 제어하는 명령문은?</question>
+    <objQ>
+      <num1>주석문</num1>
+      <num2>분기문</num2>
+      <num3>구조체</num3>
+      <num4>제어문</num4>
+    </objQ>
+    <answer>제어문</answer>
+  </problem>
+  <problem num="61">
+    <question>제어문에 해당하지 않는 것은?</question>
+    <objQ>
+      <num1>if 문</num1>
+      <num2>for 문</num2>
+      <num3>return 문</num3>
+      <num4>switch 문</num4>
+    </objQ>
+    <answer>return 문</answer>
+  </problem>
+  <problem num="62">
+    <question>조건문에서 수행해야 할 명령이 2개 이상 존재할 경우 반드시 설정해야 하는 것은?</question>
+    <objQ>
+      <num1>식별자</num1>
+      <num2>코드 블록</num2>
+      <num3>자료형</num3>
+      <num4>수식</num4>
+    </objQ>
+    <answer>코드 블록</answer>
+  </problem>
+  <problem num="63">
+    <question>제시한 조건의 참과 거짓 판별에 따라 서로 다른 명령을 적용하는 것은?</question>
+    <objQ>
+      <num1>if~else 문</num1>
+      <num2>if 문</num2>
+      <num3>break 문</num3>
+      <num4>switch 문</num4>
+    </objQ>
+    <answer>if~else 문</answer>
+  </problem>
+  <problem num="64">
+    <question>if 문에서 짝수의 합을 구하는 조건문을 선언할 때 사용하면 편리한 연산자는?</question>
+    <objQ>
+      <num1>%</num1>
+      <num2>/</num2>
+      <num3>--</num3>
+      <num4>*</num4>
+    </objQ>
+  </problem>
+  <problem num="65">
+    <question>2개 이상의 조건문이 제시된 다중 if 문에서 모든 조건이 참일 경우 명령을 수행하도록 하기 위해 다중 조건 사이에 선언할 연산자는?</question>
+    <objQ>
+      <num1>||</num1>
+      <num2>OR</num2>
+      <num3>!=</num3>
+      <num4>&amp;&amp;</num4>
+    </objQ>
+    <answer>&amp;&amp;</answer>
+  </problem>
+  <problem num="66">
+    <question>switch 문에서 해당 case 문을 빠져나가는 명령문은?</question>
+    <objQ>
+      <num1>break 문</num1>
+      <num2>else 문</num2>
+      <num3>continue 문</num3>
+      <num4>default 문</num4>
+    </objQ>
+    <answer>break 문</answer>
+  </problem>
+  <problem num="67">
+    <question>switch 문에서 사용할 수 있는 수식은?</question>
+    <objQ>
+      <num1>문자열형 상수</num1>
+      <num2>실수형 상수</num2>
+      <num3>문자형 상수</num3>
+      <num4>콤마 연산자</num4>
+    </objQ>
+    <answer>문자형 상수</answer>
+  </problem>
+  <problem num="68">
+    <question>switch 문에서 주어진 case에 해당하지 않는 경우는?</question>
+    <objQ>
+      <num1>break</num1>
+      <num2>continue</num2>
+      <num3>return</num3>
+      <num4>default</num4>
+    </objQ>
+    <answer>default</answer>
+  </problem>
+  <problem num="69">
+    <question>제시한 조건이 참일 동안 반복해서 수행하는 명령문은?</question>
+    <objQ>
+      <num1>주석문</num1>
+      <num2>분기문</num2>
+      <num3>조건문</num3>
+      <num4>반복문</num4>
+    </objQ>
+    <answer>반복문</answer>
+  </problem>
+  <problem num="70">
+    <question>반복 횟수를 알고 있을 때 사용하는 반복문은?</question>
+    <objQ>
+      <num1>for 문</num1>
+      <num2>while 문</num2>
+      <num3>switch 문</num3>
+      <num4>do~while 문</num4>
+    </objQ>
+    <answer>for 문</answer>
+  </problem>
+  <problem num="71">
+    <question>반복문을 수행하는 이유에 해당하지 않는 것은?</question>
+    <objQ>
+      <num1>소스 코드 간결화</num1>
+      <num2>중복 코딩 권장</num2>
+      <num3>번거로움 해소</num3>
+      <num4>효율적인 유지보수</num4>
+    </objQ>
+    <answer>중복 코딩 권장</answer>
+  </problem>
+  <problem num="72">
+    <question>반복문에서 조건식을 생략하면 나타나는 증상은?</question>
+    <objQ>
+      <num1>2회만 실행</num1>
+      <num2>1회만 실행</num2>
+      <num3>무한 루프</num3>
+      <num4>반복 실행을 하지 않음</num4>
+    </objQ>
+    <answer>무한 루프</answer>
+  </problem>
+  <problem num="73">
+    <question>for 문의 문법구조에 해당하지 않는 항목은?</question>
+    <objQ>
+      <num1>조건식</num1>
+      <num2>초깃값</num2>
+      <num3>반환값</num3>
+      <num4>증감값</num4>
+    </objQ>
+    <answer>반환값</answer>
+  </problem>
+  <problem num="74">
+    <question>누적 합계를 산출하는 반복문에서 변수를 선언하고 반드시 초기화해야 하는 것은?</question>
+    <objQ>
+      <num1>곱해주는 변수</num1>
+      <num2>입력받는 변수</num2>
+      <num3>더해주는 변수</num3>
+      <num4>누적 합계를 저장하는 변수</num4>
+    </objQ>
+    <answer>누적 합계를 저장하는 변수</answer>
+  </problem>
+  <problem num="75">
+    <question>반복 횟수를 모를 때 사용하는 반복문은?</question>
+    <objQ>
+      <num1>for 문</num1>
+      <num2>while 문</num2>
+      <num3>switch 문</num3>
+      <num4>if~else 문</num4>
+    </objQ>
+    <answer>while 문</answer>
+  </problem>
+  <problem num="76">
+    <question>반복문을 무한 루프로 정의하려면?</question>
+    <objQ>
+      <num1>조건식을 1로 선언</num1>
+      <num2>초깃값을 1로 설정</num2>
+      <num3>조건식을 0으로 선언</num3>
+      <num4>증감값을 0으로 설정</num4>
+    </objQ>
+    <answer>조건식을 1로 선언</answer>
+  </problem>
+  <problem num="77">
+    <question>소스 코드에서 선언한 레이블로 강제로 이동시키는 명령문은?</question>
+    <objQ>
+      <num1>goto 문</num1>
+      <num2>break 문</num2>
+      <num3>return 문</num3>
+      <num4>continue 문</num4>
+    </objQ>
+    <answer>goto 문</answer>
+  </problem>
+  <problem num="78">
+    <question>프로그램을 수행할 때 지정된 위치로 이동시키는 제어 명령문은?</question>
+    <objQ>
+      <num1>주석문</num1>
+      <num2>분기문</num2>
+      <num3>조건문</num3>
+      <num4>반복문</num4>
+    </objQ>
+    <answer>분기문</answer>
+  </problem>
+  <problem num="79">
+    <question>무조건 반복문의 처음으로 이동시키는 명령문은?</question>
+    <objQ>
+      <num1>goto 문</num1>
+      <num2>break 문</num2>
+      <num3>return 문</num3>
+      <num4>continue 문</num4>
+    </objQ>
+    <answer>continue 문</answer>
+  </problem>
+  <problem num="80">
+    <question>현재 수행 중인 함수를 종료한 뒤 해당 함수를 호출했던 곳으로 이동시키는 명령문은? </question>
+    <objQ>
+      <num1>goto 문</num1>
+      <num2>break 문</num2>
+      <num3>return 문</num3>
+      <num4>continue 문</num4>
+    </objQ>
+    <answer>return 문</answer>
+  </problem>
+  <problem num="81">
+    <question>소스 코드를 보고 반복문에서 사용한 변수 count의 최종값을 구하시오. int count, sum = 0; for(count = 1; count <= 10; count+=2){sum += count;}printf(“%d\n”, count);</question>
+    <objQ>
+      <num1>9</num1>
+      <num2>11</num2>
+      <num3>13</num3>
+      <num4>15</num4>
+    </objQ>
+    <answer>11</answer>
+  </problem>
+  <problem num="82">
+    <question>소스 코드를 보고 반복문에서 사용한 변수 count의 최종값을 구하시오.int count = 10, sum = 0; do{sum += count; count -= 3;}while(count > 0); printf(“%d\n”, count);</question>
+    <objQ>
+      <num1>7</num1>
+      <num2>4</num2>
+      <num3>1</num3>
+      <num4>-2</num4>
+    </objQ>
+    <answer>-2</answer>
+  </problem>
+<randomQuiz>

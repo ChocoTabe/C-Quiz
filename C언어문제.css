@@ -1,0 +1,187 @@
+@font-face {
+  src: url(나눔고딕.tff);
+}
+html {
+  font-family: "나눔고딕", sans-serif;
+  width: auto;
+  height: auto;
+}
+
+body {
+  color: rgba(255, 255, 255, 1);
+  background: rgba(0, 0, 0, 0.9);
+  width: auto;
+  height: auto;
+}
+h1#title{
+  margin-top: 100px;
+  text-align: center;
+  pointer-events: none;
+}
+
+h2#start {
+  border: 1px solid white;
+  text-align: center;
+  margin-top: 100px;
+  padding: 20px;
+  cursor: grab;
+}
+
+h2:hover {
+  background: rgba(255, 255, 255, 0.5);
+  color: black;
+}
+
+#question {
+  display:none;
+  margin:10px;
+  padding:10px;
+  color:white;
+  font-size:25px;
+  letter-spacing: 5px;
+}
+
+.empty {
+  display:none;
+}
+
+#storageFrame {
+  display:none;
+  color:white;
+  text-align:right;
+  margin:10px;
+}
+
+#showAnswer {
+  font-size:30px;
+  color:white;
+}
+
+#answerChoice {
+  text-align: center;
+  margin-top: 200px;
+}
+#answerChoice div{
+  background: rgba(255, 255, 255, 1);
+  color: rgba(0, 0, 0, 0.9);
+  font-size: 20px;
+  text-align: center;
+  display: none;
+  cursor: grabbing;
+  width: auto;
+  padding: 10px;
+  margin: 5px;
+}
+#answerChoice div:hover {
+  background: rgba(255, 255, 255, 0.5);
+}
+#answerChoice div:active {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+#answerList, #answerList2, #answerList3, #answerList4 {
+  width:150px;
+}
+
+#answerList, #answerList2, #answerList3, #answerList4 {
+  width:300px;
+  margin:0;
+}
+#correct {
+  display:none;
+  margin:10px;
+  padding:10px;
+  color:white;
+  font-size:25px;
+  text-align:center;
+}
+#wrong {
+  display:none;
+  text-align: center;
+  margin:10px;
+  padding:10px;
+  color:white;
+  font-size:32px;
+  margin-left:850px;
+}
+
+#grid {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#grid #next:hover, #grid #consequence:hover, #grid #answer:hover{
+  background: rgba(255, 255, 255, 0.5);
+}
+#grid #next:active, #grid #consequence:active #grid #answer:active{
+  background: rgba(255, 255, 255, 0.2);
+}
+
+#grid #jungdap {
+  display: none;
+  position: relative;
+  left: 400px;
+}
+
+#grid #consequence {
+  background: rgba(255, 255, 255, 1);
+  color: rgba(0, 0, 0, 0.9);
+  border-radius: 10px;
+  font-size: 20px;
+  text-align: center;
+  display: none;
+  cursor: grabbing;
+  width: 180px;
+  padding: 10px;
+  margin: 5px;
+}
+#grid #answer {
+  background: rgba(255, 255, 255, 1);
+  color: white;
+  border-radius: 10px;
+  font-size: 20px;
+  text-align: center;
+  display: none;
+  cursor: grabbing;
+  width: 180px;
+  padding: 10px;
+  margin: 5px;
+  margin-left: 400px;
+}
+#grid #next{
+  background: rgba(255, 255, 255, 1);
+  color: rgba(0, 0, 0, 0.9);
+  border-radius: 10px;
+  font-size: 20px;
+  text-align: center;
+  display: none;
+  cursor: grabbing;
+  width: 400px;
+  padding: 10px;
+  margin: 5px;
+}
+#message {
+  position: relative;
+  display: none;
+  font-size: 100px;
+  text-align: center;
+  color: white;
+}
+
+#complete {
+  display: none;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+#scoreA, #scoreB, #sum, #complete {
+  display: none;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
