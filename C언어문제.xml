@@ -659,6 +659,7 @@
       <num3>--</num3>
       <num4>*</num4>
     </objQ>
+    <answer>%</answer>
   </problem>
   <problem num="65">
     <question>2개 이상의 조건문이 제시된 다중 if 문에서 모든 조건이 참일 경우 명령을 수행하도록 하기 위해 다중 조건 사이에 선언할 연산자는?</question>
