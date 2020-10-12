@@ -119,8 +119,6 @@ h2:hover {
 
 #grid #jungdap {
   display: none;
-  position: relative;
-  left: 400px;
 }
 
 #grid #consequence {
@@ -146,7 +144,6 @@ h2:hover {
   width: 180px;
   padding: 10px;
   margin: 5px;
-  margin-left: 400px;
 }
 #grid #next{
   background: rgba(255, 255, 255, 1);
@@ -218,6 +215,12 @@ h2:hover {
     padding:5px;
     font-size:8px;
     margin-left:425px;
+  }
+  #grid #jungdap {
+    font-size: 10px;
+    width: 90px;
+    padding: 5px;
+    margin: 2.5px;
   }
   #grid #consequence, #grid #answer {
     border-radius: 5px;
