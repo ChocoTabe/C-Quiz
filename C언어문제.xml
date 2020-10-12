@@ -466,7 +466,7 @@
       <num3>ascii = 66</num3>
       <num4>ascii = 67</num4>
     </objQ>
-    <answer></answer>
+    <answer>ascii = 65</answer>
   </problem>
   <problem num="46">
     <question>프로그램을 보고 출력 결과값을 쓰시오.
