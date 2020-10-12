@@ -579,7 +579,7 @@
       <num3>a = 6, b = 5</num3>
       <num4>a = 5, b = 5</num4>
     </objQ>
-    <answer>a = 5, b = 6</answer>
+    <answer>a = 6, b = 5</answer>
   </problem>
   <problem num="57">
     <question>변수 또는 자료형의 크기를 알고 싶을 때 사용하는 연산자는?</question>
