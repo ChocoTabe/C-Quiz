@@ -454,7 +454,7 @@
       <num3>num2 = -32768</num3>
       <num4>num2 = 32768</num4>
     </objQ>
-    <answer>32767</answer>
+    <answer>num2 = 32767</answer>
   </problem>
   <problem num="45">
     <question>프로그램을 보고 출력 결과값을 쓰시오.
